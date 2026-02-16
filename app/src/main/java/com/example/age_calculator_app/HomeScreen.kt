@@ -60,7 +60,7 @@ fun HomeScreen() {
             style = MaterialTheme.typography.headlineSmall
         )
 
-        // Centered "Date Of Birth"
+        // Centered "Date Of Birth ..."
         BodySection(
             modifier = Modifier.align(Alignment.Center) // This centers the WHOLE BodySection
         )

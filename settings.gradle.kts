@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "age_calculator_app"
-include(":app")
+include(":app" ...)
  

@@ -48,7 +48,7 @@ fun HomeScreen() {
             .background(DarkBackgroundColor)
             .padding(12.dp)
     ) {
-        // Title at top
+        // Title at top ...
         Text(
             modifier = Modifier
                 .align(Alignment.TopCenter)
